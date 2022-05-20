@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaythemAbid
-- 👀 I’m interested in IA 
+- 👀 I’m interested in IA , and Mobile Developpement ( Flutter )
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me abidhay2@gmail.com
