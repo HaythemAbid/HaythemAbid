@@ -1,4 +1,4 @@
-- # <p align="center">  Hi 👋, I'm Haythem ABID </p>
+# <p align="center">  Hi 👋, I'm Haythem ABID </p>
 - 👀 I’m interested in IA , and Mobile Developpement ( Flutter )
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on any project
