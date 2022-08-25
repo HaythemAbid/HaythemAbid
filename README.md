@@ -1,7 +1,7 @@
 # <p align="center">  Hi 👋, I'm Haythem ABID </p>
-<hr class="dashed"> <br>
+<hr class="Solid"> <br>
 - 👀 I’m interested in IA , and Mobile Developpement ( Flutter ) <br>
-- 🔭 I’m currently working on @Talan <br>
+- 🔭 I’m currently a Junior Software Engineer at @Talan Tunisie <br>
 - 🌱 I’m currently learning deep learning <br>
 - 💞️ I’m looking to collaborate on any project <br>
 - 📫 How to reach me abidhay2@gmail.com <br>
