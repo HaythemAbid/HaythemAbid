@@ -1,6 +1,6 @@
 # <p align="center">  Hi 👋, I'm Haythem ABID </p>
-<hr class="dashed">
-- 👀 I’m interested in IA , and Mobile Developpement ( Flutter )
+<hr class="dashed"> <br>
+- 👀 I’m interested in IA , and Mobile Developpement ( Flutter ) <br>
 - 🔭 I’m currently working on @Talan
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on any project
