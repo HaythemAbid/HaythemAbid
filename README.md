@@ -8,7 +8,7 @@
 - 🔭 I’m currently a Junior Software Engineer at @Talan Tunisie <br>
 - 🌱 I’m currently learning deep learning <br>
 - 📫 How to reach me haythem.abid@talan.com <br>
-- - 😄 Pronouns: Bob
+- 😄 Pronouns: Bob
 - ⚡ Fun fact: I play online games like league of legends / Valorant and go to the GYM very often.
 
 
