@@ -4,7 +4,7 @@
 :mailbox: Reach me out! <br> <br> 
 &emsp; [![Linkedin Badge](https://img.shields.io/badge/-Haythem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidhaythemm/) &emsp; [![Mail Badge](https://img.shields.io/badge/-haythemabid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haythem.abid@talan.com)
 
-- 👀 I’m interested in IA , and Mobile Developpement ( Flutter ) <br>
+- 👀 I’m interested in IA , and Mobile Developpement ( Flutter front-End + Java Back-End ) <br>
 - 🔭 I’m currently a Junior Software Engineer at @Talan Tunisie <br>
 - 🌱 I’m currently learning deep learning <br>
 - 📫 How to reach me haythem.abid@talan.com <br>
