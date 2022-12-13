@@ -4,9 +4,9 @@
 :mailbox: Reach me out! <br> <br> 
 &emsp; [![Linkedin Badge](https://img.shields.io/badge/-Haythem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abidhaythemm/) &emsp; [![Mail Badge](https://img.shields.io/badge/-haythemabid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haythem.abid@talan.com)
 
-- 👀 I’m interested in .NET developpment <br>
+- 👀 I’m currently interested in .NET developpment <br>
 - 🔭 I’m currently a Junior Software Engineer at @Talan Tunisie <br>
-- 🌱 I’m have experience with flutter in mobile developpment, using Spring Boot in Backend<br>
+- 🌱 I have experience with flutter in mobile developpment, using Spring Boot in Backend<br>
 - 📫 How to reach me haythem.abid@talan.com <br>
 - 😄 Pronouns: Bob
 - ⚡ Fun fact: I play online games like league of legends / Valorant and go to the GYM very often.
